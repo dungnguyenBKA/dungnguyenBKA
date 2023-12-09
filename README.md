@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Minh Dung (Chavis Nguyen)
 - 👀 I’m interested in new technology (and always curious about loveee)
-- 🌱 I’m have 3+ years experience in Mobile Development (React Native, Flutter, Android SDK)
+- 🌱 I’m have 4+ years experience in Mobile Development (React Native, Flutter, Android SDK)
 - Contact me for work:
     - Linkedin: https://www.linkedin.com/in/chavisng
     - Facebook: https://www.facebook.com/profile.php?id=100033110600262
